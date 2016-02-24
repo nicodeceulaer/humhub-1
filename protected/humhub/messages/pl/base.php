@@ -17,16 +17,13 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Search</strong>' => '',
+    'Allow' => '',
     'Choose language:' => '',
-    'Could not find requested module!' => '@@Nie znaleziono modułu!@@',
-    'Invalid request.' => '@@Błędne żądanie.@@',
-    'Keyword:' => '@@Słowo kluczowe:@@',
-    'Nothing found with your input.' => '@@Nic nie znaleziono.@@',
-    'Results' => '@@Wyniki@@',
-    'Show more results' => '@@Pokaż więcej wyników@@',
-    'Sorry, nothing found!' => '@@Przepraszam, nic nie znaleziono!@@',
-    'Welcome to %appName%' => '@@Witaj w %appName%@@',
+    'Default' => '',
+    'Deny' => '',
+    'Next' => '',
+    'Please type at least 3 characters' => '',
+    'Save' => '',
     '<strong>Latest</strong> updates' => '<strong>Najnowsze</strong> aktualizacje',
     'Account settings' => 'Ustawienia konta',
     'Administration' => 'Administracja',

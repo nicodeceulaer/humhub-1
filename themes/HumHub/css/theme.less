@@ -645,6 +645,7 @@ input[type=select] {
 .media-left,
 .media > .pull-left {
   padding-right: 0;
+  margin-right:10px;
 }
 
 .media:after {
@@ -2075,6 +2076,7 @@ ul.tag_input {
     .comment {
       .show-all-link {
         font-size: 12px;
+        cursor: pointer;
       }
     }
   }
@@ -2699,7 +2701,10 @@ img.bounceIn {
   }
   img {
     max-width: 100%;
+    width: 100%;
+    display: table-cell !important;
   }
+
   table {
     width: 100%;
     th {

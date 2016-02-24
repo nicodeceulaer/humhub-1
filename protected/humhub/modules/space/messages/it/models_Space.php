@@ -1,10 +1,10 @@
 <?php
 return array (
+  'Color' => 'Colore',
   'Created At' => 'Creato il',
   'Created By' => 'Creato da',
   'Description' => 'Descrizione',
   'Join Policy' => 'Policy di aggiunta',
-  'Ldap DN' => 'Ldap DN',
   'Name' => 'Nome',
   'Owner' => 'Proprietario',
   'Status' => 'Stato',
