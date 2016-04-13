@@ -1,6 +1,7 @@
 <?php
 return array (
   'Base URL' => 'Temel URL',
+  'Date input format' => 'Tarih giriş formatı',
   'Default language' => 'Varsayılan dil',
   'Default space' => 'Varsayılan alan',
   'Invalid space' => 'Geçersiz alan',
